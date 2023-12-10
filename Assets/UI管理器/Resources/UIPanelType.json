@@ -1,0 +1,15 @@
+[
+  {
+    "UIPanelType": 0,
+    "Path": "UIPanelOne"
+  },
+  {
+    "UIPanelType": 1,
+    "Path": "UIPanelTwo"
+  },
+  {
+    "UIPanelType":2,
+    "Path": "UIPanelThree"
+  }
+]
+
